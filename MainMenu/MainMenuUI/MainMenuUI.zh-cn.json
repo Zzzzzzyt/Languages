@@ -1340,20 +1340,12 @@
     "Text": "运载火箭"
   },
   {
-    "Identifier": "LoadingScreen_LV",
-    "Text": "运载火箭"
-  },
-  {
     "Identifier": "LoadingScreen_LoadsInto",
     "Text": "加载到"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Orbit",
     "Text": "轨道"
-  },
-  {
-    "Identifier": "LoadingScreen_LoadsInto_Pad",
-    "Text": "发射台"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Pad",
